@@ -1,5 +1,5 @@
 ## Hi, I'm Azamat
-#💫 About Me:
+#💫 About Me:<br>
 I'm currently studying in GIST<br>
 Electrical Engineering and Computer Science department<br>
 
