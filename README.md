@@ -1,6 +1,6 @@
 <h2>## Hi, I'm Azamat (아사마트)! <img src="https://media.giphy.com/media/SsBGWQvtVJJqCkMXe2/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://www.pinterest.com/pin/70437486832105/" width=250>
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG01d2pwbWJjeWJ3anN4YWtiNWthMno2dnowenNnMGk2eDh6bDdyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pYNhxuY2Xx528/giphy.gif" width=250>
 <p><em>CS Major, AI and Data Science Concentration at <a href="https://ewww.gist.ac.kr/en/main.html">Gwangju Institute of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: azamatmd@gm.gist.ac.kr
@@ -25,7 +25,7 @@ const Aza = {
                       },
   hobbies&clubs: {
                         GIST Kickass Football club,
-                        GIST Fitness and Body Building club,
+                        GIST Fitness & Body Building club,
                         GIST Pen&Pencil Math club,
                   },
   challenge: "Machine Learning, Kaggle..."
