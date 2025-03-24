@@ -11,7 +11,7 @@
 [![Linkedin:](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/azamatmd/)](https://www.linkedin.com/in/azamatmd/)
 [![GitHub AzamatMedetbekov](https://img.shields.io/github/followers/AzamatMedetbekov?label=follow&style=social)](https://github.com/AzamatMedetbekov)
 
-### <img src="https://media.giphy.com/media/xTiN0GCrD3iqO4CRZm/giphy.gif?cid=ecf05e4754eli65s4nxebrkx87eb30pfbyc0swjrjwshtva4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"> A little more about me...   
+### <img src="https://media.giphy.com/media/5eH3LMgdH9pk89KB3Y/giphy.gif?cid=ecf05e47bjmtz5wik497hyurg60rn3puh7okpxp4mssqqmeq&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="40"> A little more about me...   
 
 ```javascript
 const Aza = {
