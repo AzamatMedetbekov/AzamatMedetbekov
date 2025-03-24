@@ -1,6 +1,6 @@
 <h2>## Hi, I'm Azamat (아사마트)! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTluOXpzeG92cHJmdzU3enI3dm9kODZ4cnpveXlzZ2xzMTVoams1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/xTiN0GCrD3iqO4CRZm/giphy.gif?cid=ecf05e4754eli65s4nxebrkx87eb30pfbyc0swjrjwshtva4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=250>
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTluOXpzeG92cHJmdzU3enI3dm9kODZ4cnpveXlzZ2xzMTVoams1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oQht1Hk7HJ8USa5jrK/giphy.gif" width=250>
 <p><em>CS Major, AI and Data Science Concentration at <a href="https://ewww.gist.ac.kr/en/main.html">Gwangju Institute of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 #### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWo5YjVtNDVyanV1YzBobWwzamYyMnJrOGo0dTRlaDRzaTR6aDFkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LnQAAmUgjO8pDGw5Fd/giphy.gif" width="100"> How to reach me: azamatmd@gm.gist.ac.kr 
