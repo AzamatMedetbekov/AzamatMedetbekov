@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/CsogJyPQ2QpuhGCD4N/giphy.gif?cid=ecf05e47bjmtz5wik497hyurg60rn3puh7okpxp4mssqqmeq&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="40"> How to reach me: azamatmd@gm.gist.ac.kr 
 
-### <img src="https://media.giphy.com/media/3o7aD2z0ZqVVAh3TsA/giphy.gif" width="40"> My Socials
+### <img src="https://media.giphy.com/media/C7yrmfAcGSLLvThkUw/giphy.gif?cid=ecf05e4796s181u0mswib4hscr76nut522wf8co5wnztrnyc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="40"> My Socials
 
 
 [![Linkedin:](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/azamatmd/)](https://www.linkedin.com/in/azamatmd/)
