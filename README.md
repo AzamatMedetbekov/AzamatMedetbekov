@@ -1,16 +1,15 @@
-아사마트
-<h2> Hi, I'm Azamat! <img src="https://media.giphy.com/media/SsBGWQvtVJJqCkMXe2/giphy.gif" width="50"></h2>
+<h2>## Hi, I'm Azamat (아사마트)! <img src="https://media.giphy.com/media/SsBGWQvtVJJqCkMXe2/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/BferOKonYOspm28AiB/giphy.gif" width=250>
-<p><em>CS Major, AI and Data Science Concentration at <a href="https://eecs.gist.ac.kr/">Gwangju Institute of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
+<img align='right' src="https://www.pinterest.com/pin/70437486832105/" width=250>
+<p><em>CS Major, AI and Data Science Concentration at <a href="https://ewww.gist.ac.kr/en/main.html">Gwangju Institute of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 #### <img src="https://media.giphy.com/media/4QFArMJ28mCdlcsRyq/giphy.gif" width="40"> How to reach me: azamatmd@gm.gist.ac.kr
 
 ### <img src="https://media.giphy.com/media/dZcsQfCXxIBii4atbm/giphy.gif" width="40"> My Socials
 
 
-[![Linkedin: ayazhankad](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/azamatmd/)](https://www.linkedin.com/in/azamatmd/)
-[![GitHub AzamatMedetbekov](https://img.shields.io/github/followers/ayazhankadessova?label=follow&style=social)](https://github.com/AzamatMedetbekov)
+[![Linkedin:](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/azamatmd/)](https://www.linkedin.com/in/azamatmd/)
+[![GitHub AzamatMedetbekov](https://img.shields.io/github/followers/AzamatMedetbekov?label=follow&style=social)](https://github.com/AzamatMedetbekov)
 
 ### <img src="https://media.giphy.com/media/dZcsQfCXxIBii4atbm/giphy.gif" width="40"> A little more about me...   
 
@@ -21,9 +20,14 @@ const Aza = {
   FavFrameworks: [Next.js, React, Nest.js],
   techCommunities: {
                         Developer/Member: "GIST Student Council Information Bureau",
-                        Team: "Tesseract inc." 
-                        Member: "Google Developer Group on campus GIST", 
+                        Team: "Tesseract inc.",
+                        Member: "Google Developer Group on campus GIST",
                       },
+  hobbies&clubs: {
+                        GIST Kickass Football club,
+                        GIST Fitness and Body Building club,
+                        GIST Pen&Pencil Math club,
+                  },
   challenge: "Machine Learning, Kaggle..."
 }
 ```
