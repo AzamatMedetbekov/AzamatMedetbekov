@@ -23,10 +23,10 @@ const Aza = {
                         Team: "Tesseract inc.",
                         Member: "Google Developer Group on campus GIST",
                       },
-  hobbies&clubs: {
+  hobbies & clubs: {
                         GIST Kickass Football club,
                         GIST Fitness & Body Building club,
-                        GIST Pen&Pencil Math club,
+                        GIST Pen & Pencil Math club,
                   },
   challenge: "Machine Learning, Kaggle..."
 }
