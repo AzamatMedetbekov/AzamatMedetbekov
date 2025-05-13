@@ -26,7 +26,6 @@ const Aza = {
   hobbies & clubs: {
                         GIST Kickass Football club,
                         GIST Fitness & Body Building club,
-                        GIST Pen & Pencil Math club,
                   },
   challenge: "Machine Learning, Kaggle..."
 }
