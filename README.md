@@ -20,7 +20,6 @@ const Aza = {
   FavFrameworks: [Next.js, React, Nest.js],
   techCommunities: {
                         Developer/Member: "GIST Student Council Information Bureau",
-                        Team: "Tesseract inc.",
                         Member: "Google Developer Group on campus GIST",
                       },
   hobbies & clubs: {
