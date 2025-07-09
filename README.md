@@ -3,13 +3,9 @@
 <img align='right' src="https://media.giphy.com/media/Npqj6s74QBqzNK46wr/giphy.gif" width=250>
 <p><em>CS Major at <a href="https://ewww.gist.ac.kr/en/main.html">Gwangju Institute of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
-### <img src="https://media.giphy.com/media/CsogJyPQ2QpuhGCD4N/giphy.gif?cid=ecf05e47bjmtz5wik497hyurg60rn3puh7okpxp4mssqqmeq&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="40"> How to reach me: azamatmd@gm.gist.ac.kr 
-
-### <img src="https://media.giphy.com/media/C7yrmfAcGSLLvThkUw/giphy.gif?cid=ecf05e4796s181u0mswib4hscr76nut522wf8co5wnztrnyc&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30"> My Socials
-
-
+### •📫 How to reach me: azamatmd@gm.gist.ac.kr 
+### •⚡My Socials
 [![Linkedin:](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/azamatmd/)](https://www.linkedin.com/in/azamatmd/)
-[![GitHub AzamatMedetbekov](https://img.shields.io/github/followers/AzamatMedetbekov?label=follow&style=social)](https://github.com/AzamatMedetbekov)
 
 ### <img src="https://media.giphy.com/media/5eH3LMgdH9pk89KB3Y/giphy.gif?cid=ecf05e47bjmtz5wik497hyurg60rn3puh7okpxp4mssqqmeq&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="40"> A little more about me...   
 
