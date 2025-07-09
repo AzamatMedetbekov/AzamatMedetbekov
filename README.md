@@ -20,7 +20,7 @@ const Aza = {
                         GIST Kickass Football club,
                         GIST Fitness & Body Building club,
                   },
-  challenge: "Machine Learning, Kaggle..."
+  Interests: "Full-stack Development"
 }
 ```
 # 📊 GitHub Stats:
