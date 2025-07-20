@@ -10,8 +10,8 @@
 ```javascript
 const Aza = {
   from: "KyrgyzstanKGZ",
-  code: [TypeScript, Javascript, Python, C/C++],
-  FavFrameworks: [Next.js, React, Nest.js],
+  code: [TypeScript, Javascript, Python, C/C++, Go],
+  FavFrameworks: [Next.js, React.js, Nest.js],
   techCommunities: {
                         Developer/Member: "GIST Student Council Information Bureau",
                         Member: "Google Developer Group on campus GIST",
