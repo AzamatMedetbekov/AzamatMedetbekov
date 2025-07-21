@@ -1,11 +1,11 @@
-<h2>## Hi, I'm Azamat (아차마트)! <img src="https://media.giphy.com/media/dAuGq9UkcumNj1KCHe/giphy.gif?cid=ecf05e47yd9z0edecq4hhtj4ml2a7kk96jx6ft3zzdeng6v4&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="50"></h2>
+<h2>## Hi, I'm Azamat (아차마트)!</h2>
 
-<img align='right' src="https://media.giphy.com/media/Npqj6s74QBqzNK46wr/giphy.gif" width=250>
+<img align='right' src="https://media.giphy.com/media/dAuGq9UkcumNj1KCHe/giphy.gif?cid=ecf05e47yd9z0edecq4hhtj4ml2a7kk96jx6ft3zzdeng6v4&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="50">
 <p><em>CS Major at <a href="https://ewww.gist.ac.kr/en/main.html">Gwangju Institute of Science and Technology</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br></em></p>
 
 ### •📫 How to reach me: azamatmd@gm.gist.ac.kr 
 
-### <img src="https://media.giphy.com/media/5eH3LMgdH9pk89KB3Y/giphy.gif?cid=ecf05e47bjmtz5wik497hyurg60rn3puh7okpxp4mssqqmeq&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="40"> A little more about me...   
+### A little more about me...   
 
 ```javascript
 const Aza = {
