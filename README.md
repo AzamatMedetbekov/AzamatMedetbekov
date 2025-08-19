@@ -6,16 +6,12 @@
 ```javascript
 const Aza = {
   from: "KyrgyzstanKGZ",
-  code: [TypeScript, Javascript, Python, C/C++, Go],
-  FavFrameworks: [Next.js, React.js, Nest.js],
+  code: [TypeScript, Javascript, Go, C/C++, Python],
+  FavFrameworks: [Nest.js, React.js],
   techCommunities: {
                         Developer/Member: "GIST Student Council Information Bureau",
                         Member: "Google Developer Group on campus GIST",
                       },
-  hobbies & clubs: {
-                        GIST Kickass Football club,
-                        GIST Fitness & Body Building club,
-                  },
   Interests: "Full-stack Development",
   📫: azamatmd@gm.gist.ac.kr 
 }
