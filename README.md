@@ -10,7 +10,6 @@ const Aza = {
   FavFrameworks: [Nest.js, React.js],
   techCommunities: {
                         Developer/Member: "GIST Student Council Information Bureau",
-                        Member: "Google Developer Group on campus GIST",
                       },
   Interests: "Full-stack Development",
   📫: azamatmd@gm.gist.ac.kr 
