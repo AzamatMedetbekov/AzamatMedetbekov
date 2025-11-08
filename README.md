@@ -7,7 +7,7 @@
 const Aza = {
   from: "KyrgyzstanKGZ",
   code: [TypeScript, Javascript, Go, C/C++, Python],
-  FavFrameworks: [Nest.js, React.js],
+  FavFrameworks: [NestJS],
   techCommunities: {
                         Developer/Member: "GIST Student Council Information Bureau",
                       },
