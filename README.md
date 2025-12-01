@@ -10,7 +10,6 @@ const Aza = {
   techCommunities: {
                         Developer/Member: "GIST Student Council Information Bureau",
                       },
-  Interests: "Full-stack Development",
   📫: azamatmd@gm.gist.ac.kr 
 }
 ```
